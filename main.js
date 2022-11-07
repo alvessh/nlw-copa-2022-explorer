@@ -14,9 +14,9 @@ function createCard(date, day, games) {
 function createGame(player1, hour, player2) {
   return `
     <li>
-      <img src="assets/icon-${player1}.svg" alt="Brandeira da seleção ${player1}" />
+      <img src="./assets/icon-${player1}.svg" alt="Brandeira da seleção ${player1}" />
       <strong>${hour}</strong>
-      <img src="assets/icon-${player2}.svg" alt="Brandeira da seleção ${player2}" />
+      <img src="./assets/icon-${player2}.svg" alt="Brandeira da seleção ${player2}" />
     </li>
   `
 }
