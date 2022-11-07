@@ -8,7 +8,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-extensões">Extensões sugeridas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-extensões">Extensões</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contéudo">Contéudo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -41,6 +41,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## Extensões
 
+segue as seguintes extensões
+
 - Live Server
 - Material Icon Themes
 - Omni Theme
@@ -48,7 +50,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## Contéudo
 
-Você pode visualizar o notion com os contéudos complementares das 5 aulas [NO SEGUINTE LINK](https://efficient-sloth-d85.notion.site/Trilha-Explorer-a04332e6983d44049eccfb9257c65b2a).
+Você pode visualizar o contéudo das 5 aulas no notion [NO SEGUINTE LINK](https://efficient-sloth-d85.notion.site/Trilha-Explorer-a04332e6983d44049eccfb9257c65b2a).
 
 ## :memo: Licença
 
