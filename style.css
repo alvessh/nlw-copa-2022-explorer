@@ -8,7 +8,7 @@
   --card-title-border-color: #746615;
   --card-color-primary: #f7dd43;
   --card-bg-color: #1d1c19;
-  --bg: url(assets/bg-yellow.svg);
+  --bg: url(./assets/bg-yellow.svg);
 }
 
 ul {
