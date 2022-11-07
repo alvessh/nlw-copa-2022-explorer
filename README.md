@@ -4,7 +4,7 @@ URL: https://efficient-sloth-d85.notion.site/Trilha-Explorer-a04332e6983d44049ec
 
 # Figma
 
-Figma da aplicação: https://www.figma.com/community/file/1169028343875283461
+Figma da aplicação: https://www.figma.com/community/file/1169028052212317700
 
 # extensões sugeridas
 
